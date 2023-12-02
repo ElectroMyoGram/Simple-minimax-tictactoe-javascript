@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+#board {
+    width: 100vh;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
